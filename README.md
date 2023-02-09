@@ -5,7 +5,7 @@
 
   - [Blog](https://www.mehrdaddowlatabadi.com/)
   - [LinkedIn](https://www.linkedin.com/in/mehrdad-dowlatabadi/)
-  - 
+  
 ### Github Stats
         
 <a href="https://github.com/Lanz86">
